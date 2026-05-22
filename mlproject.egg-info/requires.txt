@@ -2,5 +2,3 @@ virtualenv
 pandas
 numpy
 seaborn
-
--e .

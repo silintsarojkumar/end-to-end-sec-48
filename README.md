@@ -3,3 +3,5 @@ agend
     a) new envoirment
     c) setup.py
     b) requiremnet.txt
+
+2. Src Folder and build the package
