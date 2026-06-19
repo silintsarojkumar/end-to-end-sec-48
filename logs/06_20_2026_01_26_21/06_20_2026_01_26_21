@@ -1,0 +1,4 @@
+[2026-06-20 01:26:23,376] 21 root - INFO - Entered The data ingestion method or component
+[2026-06-20 01:26:23,384] 24 root - INFO - Read the dataset as dataframe
+[2026-06-20 01:26:23,387] 29 root - INFO - Trin test split Initiated
+[2026-06-20 01:26:23,393] 35 root - INFO - Ingestion of the data is complited
