@@ -1,4 +1,0 @@
-virtualenv
-pandas
-numpy
-seaborn
