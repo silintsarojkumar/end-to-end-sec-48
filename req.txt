@@ -1,2 +1,7 @@
 pandas
 matplot
+numpy
+-e .
+seaborn
+flask
+setuptools
