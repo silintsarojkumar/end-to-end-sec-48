@@ -1,7 +1,10 @@
 pandas
 matplot
 numpy
--e .
 seaborn
 flask
 setuptools
+scikit-learn
+catboost
+xgboost
+#-e .
