@@ -1,0 +1,6 @@
+[2026-06-28 14:32:07,099] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-06-28 14:32:07,101] 97 werkzeug - INFO -  * Debugger PIN: 144-755-365
+[2026-06-28 14:32:38,758] 97 werkzeug - INFO - 127.0.0.1 - - [28/Jun/2026 14:32:38] "GET / HTTP/1.1" 200 -
+[2026-06-28 14:32:38,917] 97 werkzeug - INFO - 127.0.0.1 - - [28/Jun/2026 14:32:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2026-06-28 14:33:00,573] 97 werkzeug - INFO - 127.0.0.1 - - [28/Jun/2026 14:33:00] "GET /predictdata HTTP/1.1" 200 -
+[2026-06-28 14:33:21,627] 97 werkzeug - INFO - 127.0.0.1 - - [28/Jun/2026 14:33:21] "POST /predictdata HTTP/1.1" 200 -
